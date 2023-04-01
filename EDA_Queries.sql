@@ -73,6 +73,7 @@ FROM Child_Mortality c1
 JOIN Child_Mortality c2 ON c1.Entity=c2.Entity
 WHERE c1.Year = 1952 AND c2.Year = 2012;
 
+
 -- 14. Identify the country with the biggest difference in child mortality rates between 1952 and 2012:
 SELECT TOP 1 c1.Entity, 
 	   c1.Child_deaths AS child_deaths_1952, 
