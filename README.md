@@ -31,3 +31,17 @@ Ask ChatGPT to give me EDA requests for this dataset.
 
 Perform Exploratory Data Analysis to the dataset by answering these requests.
 
+1.	Count the number of records in the dataset.
+2.	Retrieve the first 10 records in the dataset.
+3.	Retrieve the records for a specific country (e.g. Turkey).
+4.	Retrieve the records for a specific year (e.g. 2002).
+5.	Retrieve the highest number of child deaths and the corresponding country and year.
+6.	Calculate the average number of child deaths across all countries and years.
+7.	Calculate the total number of child deaths for each country.
+8.	Calculate the average number of child deaths for each country.
+9.	Retrieve the countries with the highest and lowest average number of child deaths per year.
+10.	Count the number of unique countries in the dataset.
+11.	Calculate the total number of child deaths across all countries and years.
+12.	Identify the top 10 countries with the highest child mortality rates in 2012.
+13.	Calculate the percentage change in child mortality rates for each country between 1952 and 2012.
+14.	Identify the country with the biggest difference in child mortality rates between 1952 and 2012.
