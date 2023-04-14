@@ -1,6 +1,6 @@
 # Exploratory-data-analysis-with-SQL-and-ChatGPT
 
-- [View the complete data analysis process](https://github.com/SokratisPapadopoulos/Exploratory_data_analysis_with_SQL_and_ChatGPT)
+- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=f7e09edbae044508babb68e90cda5b7c&pm=c)
 
 ## 📝 Project Task
 
